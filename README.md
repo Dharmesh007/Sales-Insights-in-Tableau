@@ -1,7 +1,7 @@
 # Sales-Insight-in-Tableau
 
 ## Link to the Dashboard - (Click the link given below)👍
-https://public.tableau.com/views/SalesInsightofAtliQ/Dashboard-ProfitAnalysis?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:device=desktop
+https://public.tableau.com/views/SalesInsightsDashboard_16086159611580/Dashboard-ProfitAnalysis?:language=en&:display_count=y&:origin=viz_share_link
   
 Completely Interactive dashboards 👆👆👆   
       
