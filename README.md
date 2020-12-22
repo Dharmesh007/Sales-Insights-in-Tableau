@@ -1,4 +1,4 @@
-# Sales-Insight-in-Tableau
+# Sales-Insights-in-Tableau
 
 AIM: The main aim of the project was to create an automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
