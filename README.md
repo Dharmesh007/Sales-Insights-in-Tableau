@@ -2,6 +2,14 @@
 
 AIM: The main aim of the project was to create an automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
+The Sales Director wants to know answers to the below mentioned questions:
+- Who are my Top 5 customers 
+- What are my 2 weakest regions where sales are declining
+- What is my aggregate revenue in last 365 days
+- Revenue breakdown by cities
+- Top 5 products by revenue number
+and etc.
+
 ## Link to the Dashboard - (Click the link given below)👍
 https://public.tableau.com/views/SalesInsightsDashboard_16086159611580/Dashboard-ProfitAnalysis?:language=en&:display_count=y&:origin=viz_share_link
   
