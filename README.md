@@ -11,7 +11,7 @@ There are 5 tables. So, to combine all the tables I followed STAR SCHEMA approac
 - date table - It contains (date, cy_date(1st date of every month), year, month_name, date_yy_mmm)
 
 
-The Sales Director wants to know answers to the below mentioned questions:
+  The Sales Director wants to know answers to the below mentioned questions:
 - Who are my Top 5 customers 
 - What are my 2 weakest regions where sales are declining
 - What is my aggregate revenue in last 365 days
