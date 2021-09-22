@@ -2,6 +2,15 @@
 
 AIM: The main aim of the project was to create an automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
+# Data- Attributes details
+There are 5 tables. So, to combine all the tables I followed STAR SCHEMA approach, wherein the transaction table is our Fact table and all other tables mentioned below(Other then transaction table) are our Dimensions tables  
+1- customer table - It contains details of all the clients of AtliQ hardware (Customer_code & Customer_name) 
+2- transaction table - It contains all the transactions details (product_code, customer_code, market_code, order_date, sales_qty, sales_amount)
+3- products table -  It contains (product_code, product_type- OwnBrand,Distribution)
+4- market table - It contains market names and zones (markets_code, markets_name, zone)
+
+The dimension table is joined to the fact table(transaction table) using a foreign key.
+
 The Sales Director wants to know answers to the below mentioned questions:
 - Who are my Top 5 customers 
 - What are my 2 weakest regions where sales are declining
