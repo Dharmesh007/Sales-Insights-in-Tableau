@@ -8,6 +8,7 @@ There are 5 tables. So, to combine all the tables I followed STAR SCHEMA approac
 - transaction table - It contains all the transactions details (product_code, customer_code, market_code, order_date, sales_qty, sales_amount)
 - products table -  It contains (product_code, product_type- OwnBrand,Distribution)
 - market table - It contains market names and zones (markets_code, markets_name, zone)
+- date table - It contains (date, cy_date(1st date of every month), year, month_name, date_yy_mmm)
 
 The dimension table is joined to the fact table(transaction table) using a foreign key.
 
